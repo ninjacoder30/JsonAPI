@@ -1,0 +1,22 @@
+[
+  {
+    "product_sku": "test1",
+    "price": 100
+  },
+  {
+    "product_sku": "test2",
+    "price": 200
+  },
+  {
+    "product_sku": "test3",
+    "price": 300
+  },
+  {
+    "product_sku": "test4",
+    "price": 400
+  },
+  {
+    "product_sku": "test5",
+    "price": 500
+  }
+]
